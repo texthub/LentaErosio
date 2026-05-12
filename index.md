@@ -1,4 +1,5 @@
 ---
+layout: "default"
 menu_title: "Home"
 title: "Lenta Erosio"
 nav_order: 1
